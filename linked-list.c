@@ -61,5 +61,8 @@ int main()
     insertFirst(9);
     insertFirst(70);
     print();
+    deleteFirst();
+    deleteFirst();
+    print();
 
 }
